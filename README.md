@@ -20,4 +20,4 @@ If successfully executed, you'll deploy the infrastructure in the localstack con
 
 ### Bonus (OPTIONAL)
 
-If you have the CLI installed you can configure your credentials to point to your profile by simply set AWS_PROFILE=<local_profile> before the `terraform apply` command as we did before.
+If you have the CLI installed you can configure your credentials to point to your profile by simply set `AWS_PROFILE=<local_profile>` before the `terraform apply` command as we did before.
